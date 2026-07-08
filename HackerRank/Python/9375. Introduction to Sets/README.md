@@ -72,7 +72,7 @@ Complete the *average* function in the editor below.
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 6/6 passed |
-| Submission ID | 476462658 |
+| Submission ID | 476462888 |
 
 ---
 
