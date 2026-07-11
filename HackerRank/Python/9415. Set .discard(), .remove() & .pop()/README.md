@@ -86,7 +86,7 @@ The commands will be *pop, remove* and *discard*.
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 6/6 passed |
-| Submission ID | 476729330 |
+| Submission ID | 476729784 |
 
 ---
 
