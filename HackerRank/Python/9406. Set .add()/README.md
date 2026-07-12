@@ -43,7 +43,7 @@ Find the total number of distinct country stamps.
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 6/6 passed |
-| Submission ID | 476789387 |
+| Submission ID | 476789746 |
 
 ---
 
