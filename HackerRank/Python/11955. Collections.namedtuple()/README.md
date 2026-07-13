@@ -64,7 +64,7 @@ __<sub>Note:
 | Language | python3 |
 | Score | 20.0 |
 | Testcases | 6/6 passed |
-| Submission ID | 476862810 |
+| Submission ID | 476863741 |
 
 ---
 
