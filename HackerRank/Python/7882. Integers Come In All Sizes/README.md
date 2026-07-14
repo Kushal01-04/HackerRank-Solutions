@@ -56,7 +56,7 @@ Print the result of $a^b + c^d$ on one line.
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 2/2 passed |
-| Submission ID | 476971363 |
+| Submission ID | 476972031 |
 
 ---
 
