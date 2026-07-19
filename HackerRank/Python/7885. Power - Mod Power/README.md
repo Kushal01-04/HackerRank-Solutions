@@ -65,7 +65,7 @@ $2 \le m \le 1000$
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 2/2 passed |
-| Submission ID | 477446267 |
+| Submission ID | 477446938 |
 
 ---
 
