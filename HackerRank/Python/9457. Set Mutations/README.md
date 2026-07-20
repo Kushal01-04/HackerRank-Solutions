@@ -73,7 +73,7 @@ Your task is to execute those operations and print the sum of elements from set 
 | Language | python3 |
 | Score | 10.0 |
 | Testcases | 6/6 passed |
-| Submission ID | 477522103 |
+| Submission ID | 477523001 |
 
 ---
 
